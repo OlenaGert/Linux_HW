@@ -1,0 +1,16 @@
+  200  pwd
+  201  cd git_intro
+  202  cd ~/Desktop/git_intro
+  203  pwd
+  204  git init
+  205  echo "# git_intro" >> README.md
+  206  git add README.md
+  207  git commit -m "first commit"
+  208  git branch -M main
+  209  git remote add origin https://github.com/OlenaGert/git_intro.git
+  210  git remote remove origin
+  211  git remote add origin git@github.com:OlenaGert/git_intro.git
+  212  git push -u origin main\n
+  213  git add Tux.svg.png
+  214  git commit -m "Added photo"
+  215  git push -u origin main

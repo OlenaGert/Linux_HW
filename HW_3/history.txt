@@ -1,0 +1,65 @@
+   0 whoami
+   1 pwd
+   2 history
+   3 pwd
+   4 ls
+   5 --help
+   6 ls --help
+   7 clear
+   8 history
+   9 ls
+  10 ls -l
+  11  -a
+  12 ls -a
+  13 ls -la
+  14 clear
+  15 history
+  16 cd
+  17 pwd
+  18 cd ..
+  19 pwd
+  20 ls -al
+  21 cd /
+  22 cd
+  23 cd /
+  24 clear
+  25 ls -al
+  26 cd /home
+  27 pwd
+  28 ls -la
+  29 date
+  30 mkdir
+  31 mkdir test
+  32 mkdir -p test
+  33 ls -a
+  34 ls -l
+  35 ls -la
+  36 tree
+  37 cd /
+  38 tree
+  39 ls
+  40 cd /h
+  41 pwd
+  42 cd /home/
+  43 ls
+  44 cd /test
+  45 cd t/
+  46 cd /test
+  47 cd test/
+  48 mkdir -p /test
+  49 mkdir -p test2
+  50 ls
+  51 ls /
+  52 cd
+  53 pwd
+  54 touch file.txt
+  55 ls
+  56 touch /h
+  57 touch /home/
+  58 touch /home/test/test2/lena.txt
+  59 tree /home
+  60 cd /home/test/test2/lena.txt
+  61 cd /home/test/test2/
+  62 ls
+  63 l
+  64 history > history.txt

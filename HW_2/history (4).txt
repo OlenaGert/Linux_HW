@@ -1,0 +1,65 @@
+   0 pwd
+   1 ls
+   2 cd
+   3 cd /
+   4 ls
+   5 pwd
+   6 cd home/
+   7 pwd
+   8 ls
+   9 cd ~
+  10 pwd
+  11 ls
+  12 ls -al
+  13 ls
+  14 clear
+  15 ls
+  16 pwd
+  17 /home
+  18 cd /home
+  19 mkdir /home/user
+  20 ls
+  21 mkdir /home/user/start
+  22 ls
+  23 cd user 
+  24 ls
+  25 cd start
+  26 touch 1.txt
+  27 ls
+  28 echo "Start" >> 1.txt
+  29 ls
+  30 cat 1.txt
+  31 date
+  32 echo date >> 1.txt
+  33 cat 1.txt
+  34 echo start > 1.txt
+  35 cat
+  36 cat 1.txt
+  37 date >> 1.txt
+  38 cat
+  39 cat 1.txt
+  40 cd /opt
+  41 ls
+  42 mkdir task
+  43 ls
+  44 cd task
+  45 ls
+  46 touch start.txt
+  47 ls
+  48 cat /home/user/start/1.txt > /opt/task/start.txt
+  49 cat start.txt
+  50 cd~
+  51 cd ~
+  52 pwd
+  53 ls -la
+  54 history | tail -4
+  55 ls -la | tail -4
+  56 ls -la | tail -4 >> /opt/task/start.txt 
+  57 cat /opt/task/start.txt 
+  58 history > history_file.txt
+  59 la
+  60 ls
+  61 export history_file.txt 
+  62 ls
+  63 cat history_file.txt 
+  64 history > /tmp/history.txt
